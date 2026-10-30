@@ -25,8 +25,6 @@ busca en la raíz del sitio.
 
 ## Publicar
 
-- **La primera vez:** crea en GitHub un repositorio público y vacío llamado
-  exactamente `Ponchu.github.io` y sube este. Luego, en *Settings → Pages*,
-  elige *Deploy from a branch*, la rama `main` y la carpeta `/ (root)`.
-- **Después:** `git push origin main`. Los cambios tardan hasta 10 minutos en
-  verse.
+GitHub Pages ya está activo (*Settings → Pages*: *Deploy from a branch*, rama
+`main`, carpeta `/ (root)`). Para publicar un cambio, guárdalo y haz
+`git push origin main`; tarda hasta 10 minutos en verse.
